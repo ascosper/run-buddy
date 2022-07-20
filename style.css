@@ -43,7 +43,8 @@ body {
   footer {
     background: #fce138;
     width: 100%;
-    padding: 40px 35px;}
+    padding: 40px 35px;
+    }
   footer h2 {
     display: inline;
     color: #024e76;
@@ -52,7 +53,12 @@ body {
   footer div {
     float: right;
     line-height: 1.5;
-    text-align: right;}
+    text-align: right;
+    color: #39a6b2;
+    font-size: 15px;}
+    footer div a{
+    text-decoration: underline;}
+    
   footer a {
     color: #024e76;}
   section {
