@@ -64,7 +64,7 @@ body {
   section {
     padding: 60px;}
 .hero {
-    background-image: url("hero-bg.jpg");
+    background-image: url("flipped-hero-image.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
